@@ -1,1 +1,0 @@
-Ratnakar Singh
