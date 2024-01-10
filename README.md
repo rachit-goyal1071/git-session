@@ -9,7 +9,7 @@ Welcome to the GitHub Learning Repository! 🚀 This repository is designed to b
 git clone https://github.com/your-username/github-learning.git
 cd github-learning
 
-```
+```.
 ### Committing Changes
 ```
 git add .
