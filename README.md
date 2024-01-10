@@ -1,6 +1,6 @@
 # GitHub Learning Repository
 
-Welcome to the GitHub Learning Repository! 🚀 This repository is designed to be your go-to resource for mastering the basics of Git and GitHub. Whether you're a Git novice or looking for a quick refresher, you've come to the right place.
+Welcome to the GitHub Learning Repository! 🚀 This repository is designed to be your go-to resource for mastering the basics of Git and GitHub. Whether you're a Git novice or looking for a quick refresher, you've come to the right place [GitHub Docs](https://docs.github.com/en/get-started).
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ git merge feature-branch
 
 ## Basics of GitHub
 ### Create a Repository
-1. Go to GitHub.
+1. Go to [GitHub](https://github.com/).
 2. Click on the '+' in the top right corner.
 3. Select "New Repository."
 4. Follow the prompts to create your repository.
